@@ -1,1 +1,0 @@
-{"ProblemSolverType":0,"ProblemSolverName":"Simple Serial 3DM Problem Solver","ProblemSolverDescription":"Brute force over all possible hyper edge choice of size given by the problem.","TotalTimeInSeconds":0.0002274,"TotalSerialTime":0.0002274,"TotalParallelTime":0,"VerticesCount":6,"EdgesCount":14,"MatchCount":13}

@@ -1,0 +1,14 @@
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.ProblemGenerator\bin\Debug\net7.0\Independence.ProblemGenerator.exe
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.ProblemGenerator\bin\Debug\net7.0\Independence.ProblemGenerator.deps.json
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.ProblemGenerator\bin\Debug\net7.0\Independence.ProblemGenerator.runtimeconfig.json
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.ProblemGenerator\bin\Debug\net7.0\Independence.ProblemGenerator.dll
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.ProblemGenerator\bin\Debug\net7.0\Independence.ProblemGenerator.pdb
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.ProblemGenerator\obj\Debug\net7.0\Independence.ProblemGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.ProblemGenerator\obj\Debug\net7.0\Independence.ProblemGenerator.AssemblyInfoInputs.cache
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.ProblemGenerator\obj\Debug\net7.0\Independence.ProblemGenerator.AssemblyInfo.cs
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.ProblemGenerator\obj\Debug\net7.0\Independence.ProblemGenerator.csproj.CoreCompileInputs.cache
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.ProblemGenerator\obj\Debug\net7.0\Independence.ProblemGenerator.dll
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.ProblemGenerator\obj\Debug\net7.0\refint\Independence.ProblemGenerator.dll
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.ProblemGenerator\obj\Debug\net7.0\Independence.ProblemGenerator.pdb
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.ProblemGenerator\obj\Debug\net7.0\Independence.ProblemGenerator.genruntimeconfig.cache
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.ProblemGenerator\obj\Debug\net7.0\ref\Independence.ProblemGenerator.dll
