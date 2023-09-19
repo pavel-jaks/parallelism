@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Independence.ProblemGenerator", "Independence.ProblemGenerator\Independence.ProblemGenerator.csproj", "{B7EB750F-5477-406C-8033-9D35ED436214}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Independence.ProblemGenerator", "Independence.ProblemGenerator\Independence.ProblemGenerator.csproj", "{B7EB750F-5477-406C-8033-9D35ED436214}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Independence.Solver.Version1", "Independence.Solver.Version1\Independence.Solver.Version1.csproj", "{E9EF6DD3-49EB-466B-96BF-A3260666D78F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Independence.Solver.Version1", "Independence.Solver.Version1\Independence.Solver.Version1.csproj", "{E9EF6DD3-49EB-466B-96BF-A3260666D78F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Independence.Solver.Version2", "Independence.Solver.Version2\Independence.Solver.Version2.csproj", "{78E895FE-18A2-4A60-AB5C-02EB3933AAA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Reports", "Reports", "{04945BB4-248F-4B91-8487-94855E7B4D85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Independence.Solver.Version3", "Independence.Solver.Version3\Independence.Solver.Version3.csproj", "{BD9BB334-EDD6-4A2C-92ED-6D49DCD7952E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,14 @@ Global
 		{E9EF6DD3-49EB-466B-96BF-A3260666D78F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9EF6DD3-49EB-466B-96BF-A3260666D78F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9EF6DD3-49EB-466B-96BF-A3260666D78F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78E895FE-18A2-4A60-AB5C-02EB3933AAA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E895FE-18A2-4A60-AB5C-02EB3933AAA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E895FE-18A2-4A60-AB5C-02EB3933AAA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E895FE-18A2-4A60-AB5C-02EB3933AAA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD9BB334-EDD6-4A2C-92ED-6D49DCD7952E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9BB334-EDD6-4A2C-92ED-6D49DCD7952E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9BB334-EDD6-4A2C-92ED-6D49DCD7952E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9BB334-EDD6-4A2C-92ED-6D49DCD7952E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

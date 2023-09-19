@@ -1,0 +1,14 @@
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.Solver.Version2\bin\Debug\net7.0\Independence.Solver.Version2.exe
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.Solver.Version2\bin\Debug\net7.0\Independence.Solver.Version2.deps.json
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.Solver.Version2\bin\Debug\net7.0\Independence.Solver.Version2.runtimeconfig.json
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.Solver.Version2\bin\Debug\net7.0\Independence.Solver.Version2.dll
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.Solver.Version2\bin\Debug\net7.0\Independence.Solver.Version2.pdb
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.Solver.Version2\obj\Debug\net7.0\Independence.Solver.Version2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.Solver.Version2\obj\Debug\net7.0\Independence.Solver.Version2.AssemblyInfoInputs.cache
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.Solver.Version2\obj\Debug\net7.0\Independence.Solver.Version2.AssemblyInfo.cs
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.Solver.Version2\obj\Debug\net7.0\Independence.Solver.Version2.csproj.CoreCompileInputs.cache
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.Solver.Version2\obj\Debug\net7.0\Independence.Solver.Version2.dll
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.Solver.Version2\obj\Debug\net7.0\refint\Independence.Solver.Version2.dll
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.Solver.Version2\obj\Debug\net7.0\Independence.Solver.Version2.pdb
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.Solver.Version2\obj\Debug\net7.0\Independence.Solver.Version2.genruntimeconfig.cache
+C:\Users\stani\Documents\school\PAA\parallelism\parallelism\dotnet\Parallelism\Independence.Solver.Version2\obj\Debug\net7.0\ref\Independence.Solver.Version2.dll

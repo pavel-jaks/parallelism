@@ -4,7 +4,7 @@
     {
         public static void Main(string[] args)
         {
-            for (int i = 3; i < 25; i++)
+            for (int i = 3; i < 125; i++)
             {
                 Console.WriteLine(i);
                 CreateAndWriteProblems(i);
